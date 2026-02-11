@@ -33,16 +33,16 @@
 ## 项目规划
 | 课时内容 | 负责人 | 内容核查人 |
 |---------|--------|-----------|
-| 1、Introduction | 陈辅元 | 李智江 |
-| 2、Why Use Skills - Part I | 邓一纯 | 查昊南 |
-| 3、Why Use Skills - Part II | 邓一纯 | 查昊南 |
-| 4、Skills vs Tools, MCP, and Subagents | 陈辅元 | 李智江 |
-| 5、Exploring Pre-Built Skills | 邓一纯 | 查昊南 |
-| 6、Creating Custom Skills | 陈辅元 | 李智江 |
-| 7、Skills with the Claude API | 李智江 | 陈辅元 |
-| 8、Skills with Claude Code | 李智江 | 陈辅元 |
-| 9、Skills with the Claude Agent SDK | 查昊南 | 邓一纯 |
-| 10、Conclusion | 陈辅元 | 李智江 |
+| [1、Introduction](./1.Introduction（课程介绍）.md) | 陈辅元 | 李智江 |
+| [2、Why Use Skills - Part I](./2.Why%20Use%20Skills%201（Skills的意义）.md) | 邓一纯 | 查昊南 |
+| [3、Why Use Skills - Part II](./3.Why%20Use%20Skills%202%20-%20Agent%20and%20Skills（从Agent角度思考Skills）.md) | 邓一纯 | 查昊南 |
+| [4、Skills vs Tools, MCP, and Subagents](./4.Skills%20vs%20Tools,%20MCP,%20and%20Subagents（技能%20vs%20工具、MCP%20和子代理）.md) | 陈辅元 | 李智江 |
+| [5、Exploring Pre-Built Skills](./5.Exploring%20Pre-Built%20Skills%20（预设Skills探索）.md) | 邓一纯 | 查昊南 |
+| [6、Creating Custom Skills](./6.Creating%20Custom%20Skills（自定义skills）/6.Creating%20Custom%20Skills（自定义skills）.md) | 陈辅元 | 李智江 |
+| [7、Skills with the Claude API](./7.Skill%20with%20the%20Claude%20API（在Claude%20API使用skills）.md) | 李智江 | 陈辅元 |
+| [8、Skills with Claude Code](./8.Skill%20with%20Claude%20Code（在Claude%20Code使用skills）.md) | 李智江 | 陈辅元 |
+| [9、Skills with the Claude Agent SDK](./9.Skills%20with%20the%20Claude%20Agent%20SDK（Claude%20Agent%20SDK%20中的技能）.md) | 查昊南 | 邓一纯 |
+| [10、Conclusion](./10.Conclusion（总结）.md) | 陈辅元 | 李智江 |
 
 
 
